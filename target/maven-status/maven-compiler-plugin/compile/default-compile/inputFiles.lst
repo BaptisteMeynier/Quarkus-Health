@@ -1,1 +1,4 @@
 /home/baptiste/IdeaProjects/quarkus-health/src/main/java/org/acme/GreetingResource.java
+/home/baptiste/IdeaProjects/quarkus-health/src/main/java/org/acme/MockedDatabaseConnectionHealthCheck.java
+/home/baptiste/IdeaProjects/quarkus-health/src/main/java/org/acme/DatabaseConnectionHealthCheck.java
+/home/baptiste/IdeaProjects/quarkus-health/src/main/java/org/acme/MultipleHealthCheck.java

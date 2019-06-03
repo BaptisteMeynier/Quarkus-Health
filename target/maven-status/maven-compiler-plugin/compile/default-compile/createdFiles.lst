@@ -1,4 +1,4 @@
-org/acme/DatabaseConnectionHealthCheck.class
-org/acme/MockedDatabaseConnectionHealthCheck.class
 org/acme/MultipleHealthCheck.class
+org/acme/DatabaseConnectionHealthCheck.class
 org/acme/GreetingResource.class
+org/acme/MockedDatabaseConnectionHealthCheck.class

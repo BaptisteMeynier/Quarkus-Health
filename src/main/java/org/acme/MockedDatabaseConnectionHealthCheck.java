@@ -6,10 +6,10 @@ import org.eclipse.microprofile.health.HealthCheck;
 import org.eclipse.microprofile.health.HealthCheckResponse;
 import org.eclipse.microprofile.health.HealthCheckResponseBuilder;
 
-//@Health
+@Health
 public class MockedDatabaseConnectionHealthCheck implements HealthCheck {
     @ConfigProperty(name = "database.up", defaultValue = "false")
-    private boolean databaseUp;
+    boolean databaseUp;
 
     @Override
     public HealthCheckResponse call() {
